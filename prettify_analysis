@@ -1,0 +1,2252 @@
+/Users/marvin.marino/anaconda/bin/python "/Users/marvin.marino/Box Sync/Dev_lab/webscraper_py/test_fra.py"
+<Response [200]>
+<!DOCTYPE html>
+<html lang="it">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport"/>
+  <title>
+   Aste Giudiziarie Milano Vendite Immobiliari
+  </title>
+  <meta content="Vendite giudiziarie di Milano: motore di ricerca dedicato per le aste giudiziarie del Tribunale di Milano" name="description"/>
+  <meta content="aste giudiziarie Milano, tribunale Milano" name="keywords"/>
+  <meta content="Aste Giudiziarie Milano Vendite Immobiliari" property="og:title">
+   <meta content="Vendite giudiziarie di Milano: motore di ricerca dedicato per le aste giudiziarie del Tribunale di Milano" property="og:description">
+    <meta content="https://pubblicita.tribunale.milano.it" property="og:url">
+     <meta content="https://pubblicita.tribunale.milano.it/milano/img/logo.png" property="og:image">
+      <meta content="app-id=860036927" name="apple-itunes-app"/>
+      <meta content="app-id=it.asteannunci.gpsaste" name="google-play-app"/>
+      <meta content="Edicom Servizi Srl" name="copyright">
+       <meta content="info@rivistaastegiudiziarie.it" name="publisher-email">
+        <meta content="bctohwdZM19M2mh5opjR0EXBNBHXOWPGtiNzBjpe" name="csrf-token"/>
+        <meta content="immobiliare" name="tipologia"/>
+        <meta content="pubblicita.tribunale.milano.it/aste/cerca" name="canonical"/>
+        <link href="/rag/img/xrag_favicon_32px.ico.pagespeed.ic.KQClsox0QX.png" rel="shortcut icon"/>
+        <style>
+         @font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Open Sans Light Italic'), local('OpenSans-LightItalic'), url(https://fonts.gstatic.com/s/opensans/v15/PRmiXeptR36kaC0GEAetxrfB31yxOzP-czbf6AAKCVo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v15/xjAJXh38I15wypJXxuGMBp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Open Sans SemiBold Italic'), local('OpenSans-SemiBoldItalic'), url(https://fonts.gstatic.com/s/opensans/v15/PRmiXeptR36kaC0GEAetxi8cqLH4MEiSE0ROcU-qHOA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(https://fonts.gstatic.com/s/opensans/v15/PRmiXeptR36kaC0GEAetxp_TkvowlIOtbR7ePgFOpF4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold Italic'), local('OpenSans-ExtraBoldItalic'), url(https://fonts.gstatic.com/s/opensans/v15/PRmiXeptR36kaC0GEAetxlDMrAYtoOisqqMDW9M_Mqc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/cJZKeOuBrn4kERxqtaUH3aCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v15/MTP_ySUJH_bn48VBG8sNSonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url(https://fonts.gstatic.com/s/opensans/v15/EInbV5DfGHOiMmvb1Xr-honF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+}
+        </style>
+        <link href="http://pubblicita.tribunale.milano.it/build/default/css/A.app-b77c304c6f.css.pagespeed.cf.LwN0_8hJnB.css" media="all" rel="stylesheet" type="text/css"/>
+        <!--[if lte IE 7]>
+        <link media="all" type="text/css" rel="stylesheet" href="http://pubblicita.tribunale.milano.it/default/css/bootstrap-ie7.css">
+
+    <![endif]-->
+        <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-shim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-sham.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.2/es6-shim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-shim/0.34.2/es6-sham.min.js"></script>
+    <script src="https://wzrd.in/standalone/es7-shim@latest"></script>
+    <![endif]-->
+        <link href="http://pubblicita.tribunale.milano.it/build/default/css/A.app-motorericerca-d7f2295608.css.pagespeed.cf.0zQwlBTr1e.css" media="all" rel="stylesheet" type="text/css"/>
+       </meta>
+      </meta>
+     </meta>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div class="container-fluid">
+   <div class="row">
+    <div class="col-md-12">
+     <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="row" id="cookies-eu-banner" style="display: none;">
+       <div class="col-md-12">
+        <div class="container">
+         <div class="row">
+          <div class="col-lg-10 col-md-12">
+           <span>
+            Questo sito o gli strumenti terzi da questo utilizzati, utilizzano cookie necessari al miglior funzionamento dello stesso ed utili alle finalità illustrate nella
+            <strong>
+             cookie policy
+            </strong>
+            . Per approfondire l’argomento, consulta la cookie policy. Proseguendo la navigazione in altra maniera, acconsenti all’uso dei cookie.
+           </span>
+          </div>
+          <div class="col-lg-2 col-md-12">
+           <a class="btn btn-cookie" href="http://pubblicita.tribunale.milano.it/privacy-policy" id="cookies-eu-more">
+            Leggi di più
+           </a>
+           <button class="btn btn-cookie" id="cookies-eu-accept">
+            Accetta
+           </button>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </nav>
+    </div>
+   </div>
+  </div>
+  <div class="container hidden-xs">
+   <div class="row margin-bottom">
+    <div class="col-md-12 text-center">
+     <h1 class="hidden-print fw-300">
+      <a href="http://pubblicita.tribunale.milano.it" title="Aste Giudiziarie Tribunale di Milano">
+       Aste Giudiziarie Tribunale di Milano
+      </a>
+     </h1>
+     <h2 class="hidden-print hr-nt">
+      Il Tribunale di Milano pubblica Online le Aste Giudiziarie, Immobiliari e Fallimentari di Milano.
+     </h2>
+    </div>
+   </div>
+  </div>
+  <div class="container">
+   <div class="row">
+    <div class="col-md-12">
+     <ol class="breadcrumb">
+      <li>
+       <strong>
+        Ricerca Aste Giudiziarie per:
+       </strong>
+      </li>
+      <li>
+       <strong>
+        Provincia:
+       </strong>
+       Milano
+      </li>
+      <li>
+       <strong>
+        Comune:
+       </strong>
+       Milano
+      </li>
+      <li>
+       <strong>
+        Ordinati per:
+       </strong>
+       Data vendita decrescente
+      </li>
+     </ol>
+     <div class="row">
+      <div class="col-md-12">
+       <div class="alert alert-warning text-center" id="idRisultatiTotali">
+        <strong>
+         Risultati trovati: 677
+        </strong>
+       </div>
+      </div>
+     </div>
+     <div class="row visible-xs">
+      <div class="col-xs-12">
+       <ul class="list-inline">
+        <li>
+         <a class="icon" href="http://pubblicita.tribunale.milano.it" title="Torna alla ricerca">
+          <span class="fa-stack fa-lg">
+           <em class="fa fa-circle fa-stack-2x">
+           </em>
+           <em class="fa fa-home fa-stack-1x fa-inverse">
+           </em>
+          </span>
+          Torna alla ricerca
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="row vertical-align elenco-header hidden-print">
+      <div class="col-md-6 col-xs-12">
+       <ul class="pagination">
+        <li class="disabled">
+         <span>
+          «
+         </span>
+        </li>
+        <li class="active">
+         <span>
+          1
+         </span>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=2">
+          2
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=3">
+          3
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=4">
+          4
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=5">
+          5
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=6">
+          6
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=7">
+          7
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=8">
+          8
+         </a>
+        </li>
+        <li class="disabled">
+         <span>
+          ...
+         </span>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=67">
+          67
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=68">
+          68
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=2" rel="next">
+          »
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-6 hidden-xs text-right">
+       <ul class="list-inline">
+        <li>
+         <a class="icon" href="http://pubblicita.tribunale.milano.it" title="Torna alla ricerca">
+          <span class="fa-stack fa-lg">
+           <em class="fa fa-circle fa-stack-2x">
+           </em>
+           <em class="fa fa-home fa-stack-1x fa-inverse">
+           </em>
+          </span>
+          Torna alla ricerca
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div id="risultatiRicerca">
+      <div id="asta_41476">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              473/2015 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               P.zza della Repubblica, 5
+               <br/>
+               Fallimento: Farig Srl in liq.ne - Proc. n. 473/2015 - G.D. Dott. Guido Macripò - Curatore: Dott.ssa Patrizia Meranda, con studio in Milano, Via Teodosio n. 60 - e-mail: patrizia.meranda@tin.it, tel. 02.2615854, fax 02.89458352 - Pec Procedura: f473.2...
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                30/10/2017 10:00:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 400.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1197426/allegati/avviso" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=P.zza+della+Repubblica+5%2C+20121+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1197426" id="link_41476" title="Dettaglio Asta: 41476">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41110">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              1351/2016 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo economico
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               via Omero, 16
+               <br/>
+               APPARTAMENTO mq. 64, p. 1
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                30/10/2017 11:00:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 72.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+                € 67.000,00
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/8998/52146_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/8998/52149_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207575/allegati/altro" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza altri allegati
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207575/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=via+Omero+16%2C+20139+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207575/abitazione-di-tipo-economico-milano" id="link_41110" title="Dettaglio Asta: 41110">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41056">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              2408/2015 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo popolare
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               via Pastro, 30
+               <br/>
+               APPARTAMENTO al p.2 con ingresso/soggiorno con angolo cottura, 2 locali, servizio, cantina e solaio
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                30/10/2017 11:30:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 76.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/8994/52094_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/8994/52096_ordinanza.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Ordinanza
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207567/allegati/perizia" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207567/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=via+Pastro+30%2C+20161+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207567/abitazione-di-tipo-popolare-milano" id="link_41056" title="Dettaglio Asta: 41056">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41004">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              1545/2011 UNICO
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo civile
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               via Pellegrino Rossi, 95
+               <br/>
+               APPARTAMENTO al p. 4 con ingresso, soggiorno, cucina abitabile, 3 locali, doppi servizi, ripostiglio e cantina
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                30/10/2017 12:30:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 265.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/8990/52079_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/8990/52082_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207563/allegati/altro" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza altri allegati
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207563/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=via+Pellegrino+Rossi+95%2C+20161+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207563/abitazione-di-tipo-civile-milano" id="link_41004" title="Dettaglio Asta: 41004">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41300">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              843/2012 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo popolare
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               Via Candiani, 128
+               <br/>
+               APPARTAMENTO con solaio, piano I. Classe energ. "G". C/o avv. Maioli, via Salvemini 1 San Donato Mil.se
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                30/10/2017 12:30:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 72.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+                € 80.000,00
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207627/allegati/ordinanza" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Ordinanza
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9034/52370_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9034/52374_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207627/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=Via+Candiani+128%2C+20158+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207627/abitazione-di-tipo-popolare-milano" id="link_41300" title="Dettaglio Asta: 41300">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41260">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              448/2016 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo economico
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+              1/1
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               via Don Grazioli, 28
+               <br/>
+               MONOLOCALE uso abitazione mq. 49
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                30/10/2017 15:00:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 94.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+                € 112.782,00
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9024/52291_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9024/52294_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207608/allegati/altro" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza altri allegati
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207608/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=via+Don+Grazioli+28%2C+20161+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207608/abitazione-di-tipo-economico-milano" id="link_41260" title="Dettaglio Asta: 41260">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41484">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              3313/2014 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo popolare
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+              1/1
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               via Alessandro Zanoli, 20
+               <br/>
+               APPARTAMENTO composto da: ingresso, cucina, camera e bagno
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                30/10/2017 15:30:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 85.500,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+                € 76.500,00
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9042/52406_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9042/52408_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207635/allegati/altro" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza altri allegati
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207635/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=via+Alessandro+Zanoli+20%2C+20161+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207635/abitazione-di-tipo-popolare-milano" id="link_41484" title="Dettaglio Asta: 41484">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41757">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              1590/2013 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo popolare
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               VIA QUINTO ROMANO, 52
+               <br/>
+               UNITÀ IMMOBILARE p.1° di 1 locale oltre servizi e cantina p. cantinato, APE: Classe G - 332,21 kWh/m2a
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                31/10/2017 10:00:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 22.500,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+                € 40.000,00
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9057/52489_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9057/52491_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207651/allegati/altro" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza altri allegati
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207651/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=VIA+QUINTO+ROMANO+52%2C+20153+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207651/abitazione-di-tipo-popolare-milano" id="link_41757" title="Dettaglio Asta: 41757">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41134">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              204/2014 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo civile
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               corso di Porta Nuova, 2
+               <br/>
+               zona centrale e di pregio di Milano, UNITÀ IMMOBILIARE di mq. 189, posta al piano terzo con cantina pertinenziale al piano sotterraneo. Composta da: ingresso/disimpegno, ampio soggiorno/pranzo con balconata, cucina abitabile, rip./lavanderia, disimpe...
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                31/10/2017 10:00:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 1.150.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+                € 1.150.000,00
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9003/52174_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9003/52176_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207580/allegati/altro" target="_blank" title="Visualizza altri allegati">
+                  <i aria-hidden="true" class="fa fa-download fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza altri allegati
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207580/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=corso+di+Porta+Nuova+2%2C+20121+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207580/abitazione-di-tipo-civile-milano" id="link_41134" title="Dettaglio Asta: 41134">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="asta_41433">
+       <div class="row page-break-inside">
+        <div class="col-md-12">
+         <div class="panel panel-primary panel-asta">
+          <div class="panel-heading">
+           <p class="panel-title text-center">
+            Dati sulla procedura
+           </p>
+          </div>
+          <div class="panel-body">
+           <div class="row">
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tribunale
+             </strong>
+             <p>
+              Milano
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Nr. Procedura
+             </strong>
+             <p>
+              2025/2015 Lotto 1
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Tipologia
+             </strong>
+             <p>
+              Abitazione di tipo economico
+             </p>
+            </div>
+            <div class="col-md-3 col-p-3">
+             <strong>
+              Quota
+             </strong>
+             <p>
+             </p>
+            </div>
+           </div>
+           <div class="row padding-bottom-15">
+            <div class="col-md-2 col-sm-4 col-p-2">
+             <img alt="Nessuna miniatura per questo immobile" class="img-responsive" height="225" src="/default/img/ximg_non_disponibile_small.jpg.pagespeed.ic.aENCW99F0v.jpg" width="175"/>
+            </div>
+            <div class="col-md-5 col-sm-8 col-p-5">
+             <div class="text-justify">
+              <p>
+               <strong>
+                Milano (MI)
+               </strong>
+               VIA MONTE ROTONDO, 3
+               <br/>
+               APPARTAMENTO A/3 con cantina, 4 vani
+              </p>
+             </div>
+            </div>
+            <div class="col-md-5 col-sm-12 col-p-5 pull-right">
+             <div class="boxed">
+              <p class="text-center bg">
+               <strong>
+                Vendita senza incanto
+               </strong>
+              </p>
+              <div class="row">
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Data
+                 </strong>
+                </p>
+                31/10/2017 10:00:00
+               </div>
+               <div class="col-xs-6 text-center margin-bottom">
+                <p>
+                 <strong>
+                  Prezzo base
+                 </strong>
+                </p>
+                € 97.000,00
+               </div>
+              </div>
+              <div class="row margin-bottom">
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Valore da perizia
+                 </strong>
+                </p>
+               </div>
+               <div class="col-xs-6 text-center">
+                <p>
+                 <strong>
+                  Offerta minima
+                 </strong>
+                </p>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-12">
+             <p>
+              <strong>
+               Allegati
+              </strong>
+             </p>
+             <div class="row allegati">
+              <ul class="list-inline col-md-12 col-xs-12 scheda-doc">
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9040/52398_perizia.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Perizia
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9040/52399_ordinanza.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-pencil fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Ordinanza
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="https://s3-eu-central-1.amazonaws.com/storeext/102/260/9040/52401_avviso.pdf" target="_blank" title="Scarica allegato">
+                  <i aria-hidden="true" class="fa fa-floppy-o fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Avviso
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://pubblicita.tribunale.milano.it/aste/1207633/allegati/foto" title="Visualizza foto e planimetrie">
+                  <i aria-hidden="true" class="fa fa-camera fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza foto e planimetrie
+                  </div>
+                 </a>
+                </h4>
+               </li>
+               <li>
+                <h4 class="text-center">
+                 <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=VIA+MONTE+ROTONDO+3%2C+20162+Milano+%28MI%29&amp;sll=&amp;sspn=&amp;ie=UTF8&amp;z=16&amp;iwloc=addr" target="_blank" title="Visualizza sulla mappa">
+                  <i aria-hidden="true" class="fa fa-map-marker fa-lg">
+                  </i>
+                  <div class="text-allegato">
+                   Visualizza sulla mappa
+                  </div>
+                 </a>
+                </h4>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="panel-footer hidden-print">
+           <div class="row">
+            <div class="col-lg-2 col-md-3 col-xs-12">
+             <a class="btn btn-primary" href="http://pubblicita.tribunale.milano.it/aste/1207633/abitazione-di-tipo-economico-milano" id="link_41433" title="Dettaglio Asta: 41433">
+              <strong>
+               Scheda dettagliata
+              </strong>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="row hidden-print">
+      <div class="col-md-12">
+       <ul class="pagination">
+        <li class="disabled">
+         <span>
+          «
+         </span>
+        </li>
+        <li class="active">
+         <span>
+          1
+         </span>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=2">
+          2
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=3">
+          3
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=4">
+          4
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=5">
+          5
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=6">
+          6
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=7">
+          7
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=8">
+          8
+         </a>
+        </li>
+        <li class="disabled">
+         <span>
+          ...
+         </span>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=67">
+          67
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=68">
+          68
+         </a>
+        </li>
+        <li>
+         <a href="http://pubblicita.tribunale.milano.it/aste/cerca?provincia=MI&amp;comune=F205&amp;cap=&amp;indirizzo=&amp;tipologia=0&amp;tipologia_dettaglio=0&amp;limit=10&amp;orderby=&amp;prezzo_da=&amp;prezzo_a=&amp;data_vendita=&amp;tipo_procedura=0&amp;rge=&amp;rge_anno=&amp;enti_esattoriali=&amp;quota=&amp;tipologia_lotto=immobiliare&amp;page=2" rel="next">
+          »
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer class="hidden-print">
+   <div class="container-fluid copyright">
+    <div class="row">
+     <div class="col-md-12">
+      <div class="container">
+       <div class="row">
+        <div class="col-xs-12 text-center">
+         <p>
+          <strong>
+           Aste Giudiziarie Tribunale di Milano
+          </strong>
+          <br/>
+          Consulta le vendite giudiziarie del Tribunale di Milano e trova il bene di tuo interesse
+          <br/>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-19867255-28','auto');ga('send','pageview');ga('set','anonymizeIp',true);
+  </script>
+  <script src="/build/default/js/app-faeecb7d09.js.pagespeed.jm.cTYcAHZt0-.js">
+  </script>
+  <script>
+   new CookiesEuBanner(function(){});
+  </script>
+  <script src="/build/default/js/app-motorericerca-1210f350ec.js.pagespeed.jm.Pts7FHCoWQ.js">
+  </script>
+ </body>
+</html>
